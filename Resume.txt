@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<HTML>
+	<head>
+		<Title>Resume</Title>
+	</head>
+	<body>
+
+		<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="file:///C:/Users/Alexander/Desktop/Coding.html">Front Page</a></li>
+							<li><a href="file:///C:/Users/Alexander/Desktop/Resume.html">Resume</a></li>
+							<li><a href="file:///C:/Users/Alexander/Desktop/CoverLetter.html">Cover Letter</a></li>
+							<li><a href="file:///C:/Users/Alexander/Desktop/Thank%20You%20Letter.html">Thank You letter</a></li>
+							<li><a href="elements.html">Essay</a></li>
+							<li><a href="elements.html">Skills Checklist</a></li>
+							<li><a href="elements.html">Production Accomplishments</a></li>
+							<li><a href="elements.html">PowerPoint presentation</a></li>
+							<li><a href="elements.html">Certificates and awards</a></li>
+							<li><a href="elements.html">Employability Section</a></li>
+							<li><a href="elements.html">Portfolio Introduction</a></li>
+							<li><a href="elements.html">Recommendation letter</a></li>
+							<li><a href="elements.html">One year goal</a></li>
+							<li><a href="elements.html">5 year goal</a></li>
+							<li><a href="elements.html">Portfolio reflection/extracurricular</a></li>
+
+						</ul>
+					</nav>
+					<h1>Resume</h1>
+					<p>Alexander Marbou
+4 O’Sullivan Rd
+Derby, CT 06418
+(203)892-5407
+xanderm2403@gmail.com
+Emmett O’Brien 2018-2021
+
+
+Work Experience: 
+Dad
+Mixing Concrete
+Derby, CT
+
+Dad
+Paving the ground
+Derby, CT
+
+Dad
+Fixing a Computer
+Derby, CT
+
+Dad
+Making an Ethernet Cable
+Derby, CT
+
+Education:
+Emmett O’Brien Technical HS
+Ansonia, CT
+September 1st 2018
+Graduating June 2021
+IDK my GPA
+
+Skills:
+Making a Ethernet Cable
+Fixing a PC
+Nice
+Cooperating well
+Self-Motivated
+
+Awards and Activities:
+Member of the Indoor Track Team, Track and Field Team, Cross Country Team, and ex Soccer Player.
+
+Sincerely,
+
+
+
+Your Name
+
+Listen Effectively
+Enforces Policies
+Creates Ideas 
+Meets goals
+Direct Others
+Honors Junior year
+Honors Freshman Year
+IDK my GPA
+Help my dad fix his car, Help fix the deck, Help fix Fill in concrete, Help mow lawn, and also help fixing his PC, I made a ethernet cable,
+				</p>
+</HTML>
